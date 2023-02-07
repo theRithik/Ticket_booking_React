@@ -1,0 +1,62 @@
+.latest{
+    border:0.3px solid;
+    border-radius: 10px;
+    /* padding: 20px;
+    padding-left: 20px;
+    padding-right: 10px; */
+    height: 150px;
+    width:380px;
+    margin-left: 20px;
+    background-image: url("https://cnbl-cdn.bamgrid.com/assets/a5672c6024c4189e0bb404a1a9f8cb18f00d7581e5de8cc786d93e30c405b510/original");
+   background-size: cover;
+}
+
+
+.secound{
+      border:0.3px solid;
+      border-radius: 10px;
+    /* padding: 20px;
+    padding-left: 20px;
+    padding-right: 10px; */
+    height: 150px;
+    width:400px;
+    background-image: url("https://www.hulu.com/static/hitch/s3/attachments/ckk5sx6dw01wj1u3zh7duysui-hulu-desktop-1600x756.jpg");
+    margin-left: 20px;
+    background-size: cover;
+}
+.secound:hover{
+    opacity: 0.5;
+}
+.latest:hover{
+    opacity: 0.5;
+}
+.third:hover{
+    opacity: 0.5;
+}
+.text:hover{
+    color: aqua;
+}
+
+.text2{
+    display: none;
+}
+.latest:hover +.text2{
+    display: block;
+    color:white
+}
+
+.third{
+    border:0.3px solid;
+    border-radius: 10px;
+    /* padding: 20px;
+    padding-left: 20px;
+    padding-right: 10px; */
+    height: 150px;
+    width:350px;
+    background-image: url("https://www.weddingsutra.com/images/Vendor_Images/Wedding_Planners/Version-Events-and-Weddings/version-events-weddings-01.jpg");
+    margin-left: 20px;
+    background-size: cover;
+}
+.carousel-item{
+    height:500px;
+}

@@ -1,0 +1,14 @@
+.card{
+    height:300px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.cardimg{
+ height:150px
+}
+.btn{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 10px;
+}

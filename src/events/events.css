@@ -1,0 +1,15 @@
+.img1{
+    width:45%;
+    height:50%
+}
+.img2{
+    width: 45%;
+    height: 334px;
+    display: inline-block;
+    margin-left: 100px;
+}
+.hed{
+    margin: 50px;
+    text-align: center;
+    color: red;
+}
